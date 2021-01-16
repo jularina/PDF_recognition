@@ -4,7 +4,6 @@ from pdf2image import convert_from_path
 from matplotlib import pyplot as plt
 from PIL import Image
 import pytesseract
-import argparse
 import cv2
 import os
 
